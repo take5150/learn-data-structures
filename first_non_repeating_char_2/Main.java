@@ -8,7 +8,7 @@ public class Main {
     System.err.println(getNotDuplicate("leetcode"));
   }
 
-  // 重複箇所のインデックスを返却するメソッド
+  // 最初の重複していない文字のインデックスを返却する
   // pre: s = "leetcode"
   // post : 0
   public static int getNotDuplicate(String string) {
