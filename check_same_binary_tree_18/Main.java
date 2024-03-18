@@ -27,9 +27,6 @@
  * 
  */
 
-
-
-
 package check_same_binary_tree_18;
 
 public class Main{
@@ -63,6 +60,7 @@ public class Main{
 
       // base case: rootA and rootB is null, return true
       if (rootA == null && rootB == null) return true;
+      if (rootA == null || rootB == null) return false;
 
       // step1: if rootA.val != rootB.val, return false;
       if(rootA.val != rootB.val) return false;
