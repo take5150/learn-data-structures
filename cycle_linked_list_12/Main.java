@@ -15,7 +15,7 @@
 
 
 
-package cycle_linked_list_14;
+package cycle_linked_list_12;
 
 
 public class Main {

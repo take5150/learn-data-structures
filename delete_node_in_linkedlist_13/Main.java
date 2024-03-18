@@ -22,7 +22,7 @@
  */
 
 
-package delete_node_in_linkedlist_15;
+package delete_node_in_linkedlist_13;
 
 public class Main {
 

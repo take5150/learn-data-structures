@@ -1,4 +1,4 @@
-package delete_node_in_linkedlist_15;
+package reverese_linkedlist_15;
 
 public class ListNode {
   int val;

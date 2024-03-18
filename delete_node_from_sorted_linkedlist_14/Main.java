@@ -21,7 +21,7 @@
 
 
 
-package delete_node_from_sorted_linkedlist_16;
+package delete_node_from_sorted_linkedlist_14;
 
 public class Main {
   
